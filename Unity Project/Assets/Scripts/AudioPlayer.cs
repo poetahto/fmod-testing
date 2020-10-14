@@ -15,7 +15,7 @@ public class AudioPlayer : MonoBehaviour
 
     private void Start()
     {
-        _musicBus = RuntimeManager.GetBus("bus:/Master");
+        _musicBus = RuntimeManager.GetBus("bus:/");
     }
 
     private void OnGUI()
