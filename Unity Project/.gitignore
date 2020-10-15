@@ -63,6 +63,7 @@ crashlytics-build.properties
 
 # FMOD related files
 Assets/Plugins/FMOD/Cache/
+Assets/Plugins/FMOD/Cache.meta
 Assets/StreamingAssets/**/*.bank
 Assets/StreamingAssets/**/*.bank.meta
 fmod_editor.log
